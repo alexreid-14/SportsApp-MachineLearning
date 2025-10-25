@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+env/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Models / artifacts
+models/
+*.pkl
+*.h5
+*.pt
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
